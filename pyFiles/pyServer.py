@@ -56,6 +56,5 @@ while 1:
         
     else:
         print savelog('No more data')
-        #break KLINEI TO PROGRAMA
     
 s.close()
